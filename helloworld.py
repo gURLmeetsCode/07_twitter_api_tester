@@ -1,9 +1,9 @@
 import tweepy
 
-consumer_key = 'ZtFi4rrp1j4sY3NKaujqSp4Ji'
-consumer_secret = 'ISJgbpUeKPsA2tuSWcLWnyOFht3gfV63WDngABkWxAOrPYUn2Y'
-access_token = '737429991885963264-Mznfu15dnEV0bI0PZBZbFHnZhqQRLEC'
-access_token_secret = 'xAqPP7F6976yqcuh4iNjwdJThKdzWpwZG49qt9YNldGvR'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 # creating an OAuthHandler instance
 

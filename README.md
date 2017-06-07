@@ -12,9 +12,6 @@ To get started you will need pip installed on your device
 Secondly, you will need to install tweepy
 [Tweepy](http://www.tweepy.org)
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 

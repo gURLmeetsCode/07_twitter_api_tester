@@ -1,6 +1,6 @@
 # Twitter API APP
 
-![alt text](http://www.dropbox.com/s/d6bltyyvgccfchm/Screenshot%202017-06-07%2016.38.35.png?dl=0)
+![Twitter](http://vectorlogo4u.com/wp-content/uploads/2016/06/twitter-icon-vector.png)
 
 I wanted to practice pulling data from Twitter API. Additiionally, I wanted to see how Big Data and Data Mining is achieved with Python. 
 
